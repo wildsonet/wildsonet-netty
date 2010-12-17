@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "wildsonet-netty"
   gem.homepage = "http://github.com/marekjelen/wildsonet-netty"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Netty library}
+  gem.description = %Q{Netty library packed as gem}
   gem.email = "marek@jelen.biz"
   gem.authors = ["Marek Jelen"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
