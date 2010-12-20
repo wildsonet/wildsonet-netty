@@ -1,6 +1,15 @@
-= wildsonet-netty
+= WildSoNet::Netty
 
-Description goes here.
+JBoss Netty library embeded for use with jRuby. Primarily for used in WildSoNet, but useful for any project.
+
+  The Netty project is an effort to provide an asynchronous event-driven network application framework and tools
+  for rapid development of maintainable high performance & high scalability protocol servers & clients.
+
+http://www.jboss.org/netty
+
+== Versioning
+
+Version of the gem reflects version of embeded Netty library.
 
 == Contributing to wildsonet-netty
  
@@ -14,6 +23,5 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Marek Jelen. See LICENSE.txt for
-further details.
+Copyright (c) 2010 Marek Jelen. See LICENSE.txt for further details.
 
