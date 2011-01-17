@@ -1,4 +1,4 @@
-= WildSoNet::Netty
+= Wildsonet::Netty
 
 JBoss Netty library embeded for use with jRuby. Primarily for used in WildSoNet, but useful for any project.
 
@@ -9,7 +9,17 @@ http://www.jboss.org/netty
 
 == Versioning
 
-Version of the gem reflects version of embeded Netty library.
+Version of the gem reflects version of embeded Netty library plus internal patchset.
+
+Version 3.2.3.1 means Netty version 3.2.3 with internal patchset 1.
+
+== Changelog
+
+=== 3.2.3.1
+
+* Add internal patchset
+* Rename module to Wildsonet
+* Dejewelerize
 
 == Contributing to wildsonet-netty
  
